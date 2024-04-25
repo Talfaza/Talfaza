@@ -4,4 +4,6 @@
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=talfaza&repo=dotfiles)](https://github.com/talfaza/dotfiles)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=talfaza&repo=Face-Smart)](https://github.com/talfaza/Face-Smart)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=talfaza&repo=portfolio)](https://github.com/talfaza/portfolio)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=talfaza&repo=inventory_management_v2)](https://github.com/Talfaza/inventory_management_v2)
 
