@@ -5,7 +5,7 @@ talfaza@talfaza
 os     Fedora Linux 40
 host   talfaza
 uptime 6y 7m
-repos  14                    
+repos  15                    
 ```
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=talfaza&show_icons=true&theme=github_dark&include_all_commits=true)
 
