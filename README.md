@@ -9,7 +9,8 @@ repos  15
 ```
 ![68747470733a2f2f6769746875622e6769746875626173736574732e636f6d2f696d616765732f6d6f6e612d776869737065722e676966](https://github.com/user-attachments/assets/b9dca098-382e-4885-a2b1-3e0452bf2a80)
 ![68747470733a2f2f6769746875622e6769746875626173736574732e636f6d2f696d616765732f6d6f64756c65732f736974652f73706f6e736f72732f706978656c2d6d6f6e612d68656172742e676966](https://github.com/user-attachments/assets/be4df88b-105f-4a53-bde6-751a4d2c0e5b)
-![Uploading bttv-rolling-cat.gif…]()
+
+![bttv-rolling-cat](https://github.com/user-attachments/assets/a9366dc0-8053-4244-89e1-19fa41d57e5b)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=talfaza&show_icons=true&theme=github_dark&include_all_commits=true)
 
