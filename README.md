@@ -12,7 +12,9 @@ repos  15
     
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=talfaza&show_icons=true&theme=github_dark&include_all_commits=true)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=talfaza&show_icons=true&theme=github_dark&include_all_commits=true" />
+</p>
 
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Talfaza&repo=dotfiles&theme=github_dark)](https://github.com/Talfaza/dotfiles)
