@@ -4,7 +4,7 @@
 talfaza@talfaza
 os     Fedora Linux 40
 host   talfaza
-uptime 7y 2m
+uptime 8y 6m
 repos  10                    
 ```
 
