@@ -1,8 +1,9 @@
-## Hello World 👋
+
+[talfaza@github:~]$ fastfetch
 
 ```yaml
 talfaza@talfaza
-os     Fedora Linux 40
+os     Fedora Linux 42 && Nixos
 host   talfaza
 uptime 8y 6m
 repos  11
