@@ -15,3 +15,5 @@ repos  11
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Talfaza&repo=BridgeHub&theme=github_dark)](https://github.com/Talfaza/BridgeHub)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Talfaza&repo=Netfixer&theme=github_dark)](https://github.com/Talfaza/Netfixer)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Talfaza&repo=Web-Based-Windows-File-Manager&theme=github_dark)](https://github.com/Talfaza/Web-Based-Windows-File-Manager)
+
+Currently Working On : [Nucleus](https://github.com/Talfaza/Nucleus)
