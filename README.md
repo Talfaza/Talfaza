@@ -2,7 +2,7 @@
 [talfaza@github:~]$ fastfetch
 
 ```yaml
-talfaza@talfaza
+talfaza@github
 os     Fedora Linux 42 && Nixos
 host   talfaza
 uptime 8y 6m
