@@ -10,9 +10,4 @@
 
 
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Talfaza&repo=dotfiles&theme=dark&hide)](https://github.com/Talfaza/dotfiles)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Talfaza&repo=BridgeHub&theme=dark&hide)](https://github.com/Talfaza/BridgeHub)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Talfaza&repo=Netfixer&theme=dark&hide)](https://github.com/Talfaza/Netfixer)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Talfaza&repo=Nucleus&theme=dark&hide)](https://github.com/Talfaza/Nucleus)
-
 
